@@ -1,4 +1,4 @@
-# Farelock
+# FareLock
 
 - [Live prototype](https://tush12.github.io/Farelock/)
 - [Public repository](https://github.com/Tush12/Farelock)
