@@ -3,6 +3,6 @@
 - [Live prototype](https://tush12.github.io/Farelock/)
 - [Public repository](https://github.com/Tush12/Farelock)
 
-FareLock lets travelers set a target fare and choose to receive an alert or book automatically when the price reaches their budget.
+FareLock lets the user tell the airline the most they're willing to pay for a flight. Our automated system watches the price for you and books the ticket automatically if the fare drops to that amount. 
 
-Fare data, payments, and ticketing are simulated.
+This gives the airline critical data, showing how many travelers are willing to book at different price points.
